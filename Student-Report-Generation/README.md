@@ -1,5 +1,5 @@
 # Project 1: Student Report Generation
-### by Badulla Shaik
+### by Sana Sudha 
 
 ## What it is and does
 
